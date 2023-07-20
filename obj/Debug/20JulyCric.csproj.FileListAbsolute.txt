@@ -1,0 +1,8 @@
+D:\20JulyCric\20JulyCric\bin\Debug\20JulyCric.exe.config
+D:\20JulyCric\20JulyCric\bin\Debug\20JulyCric.exe
+D:\20JulyCric\20JulyCric\bin\Debug\20JulyCric.pdb
+D:\20JulyCric\20JulyCric\obj\Debug\20JulyCric.csproj.AssemblyReference.cache
+D:\20JulyCric\20JulyCric\obj\Debug\20JulyCric.csproj.SuggestedBindingRedirects.cache
+D:\20JulyCric\20JulyCric\obj\Debug\20JulyCric.csproj.CoreCompileInputs.cache
+D:\20JulyCric\20JulyCric\obj\Debug\20JulyCric.exe
+D:\20JulyCric\20JulyCric\obj\Debug\20JulyCric.pdb
